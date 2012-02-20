@@ -5,7 +5,7 @@
   , "main": "./lib/engine.ns.io"
   , "dependencies": {
         "coffee-script": "*"
-      , "engine.io-client": "git://github.com/ruxkor/engine.io-client.git"
+      , "engine.io": "git://github.com/ruxkor/engine.io.git"
       , "engine.ns.io-base": "git://github.com/ruxkor/engine.ns.io-base.git"
     }
 }
